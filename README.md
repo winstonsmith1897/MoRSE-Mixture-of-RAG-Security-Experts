@@ -1,6 +1,7 @@
 # MoRSE - Mixture of RAG Security Experts
 
 ![Licenza MIT](https://img.shields.io/badge/license-MIT-green)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube&logoColor=white)](https://youtu.be/TjpCZg36ZUk)
 
 > 🚨 **Repo moved!**  
 > Originally at [Mixture-of-RAGs-Security-Experts/MoRSE](https://github.com/Mixture-of-RAGs-Security-Experts/MoRSE)  
@@ -12,12 +13,13 @@
 Welcome to the official repository of MoRSE, a groundbreaking framework in the cybersecurity domain that synergizes the generative capabilities of Large Language Models (LLMs) with the precision of specialized information retrievers. MoRSE stands at the vanguard of cybersecurity solutions, offering meticulously structured responses to a wide spectrum of cybersecurity queries.
 
 
-## Watch MoRSE in Action on YouTube
+## 🎥 Watch MoRSE in Action on YouTube
 
 Dive into a comprehensive demonstration of MoRSE on YouTube to see our cutting-edge framework in operation, ensuring the fortification of digital infrastructures against evolving cyber threats.
-[![Watch MoRSE on YouTube](https://github.com/winstonsmith1897/MoRSE-Mixture-of-RAG-Security-Experts/blob/main/MoRSE_ICON.png)](https://youtu.be/TjpCZg36ZUk)
+[![Watch MoRSE on YouTube](https://github.com/winstonsmith1897/MoRSE-Mixture-of-RAG-Security-Experts/blob/main/MoRSE_ICON.png)]
 
 This video will provide you with a detailed overview of MoRSE's capabilities.
+[![Watch MoRSE on YouTube](https://img.shields.io/badge/▶️%20Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/TjpCZg36ZUk)
 
 ## Features of MoRSE
 
